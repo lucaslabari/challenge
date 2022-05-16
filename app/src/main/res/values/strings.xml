@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Embrace Logger</string>
+    <string name="log">Submit Log</string>
+    <string name="log_line">%s MESSAGE: %s %s</string>
+</resources>
